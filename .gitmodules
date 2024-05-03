@@ -1,0 +1,3 @@
+[submodule "codeql-official"]
+	path = codeql-official
+	url = https://github.com/github/codeql.git
