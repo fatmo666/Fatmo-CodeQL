@@ -1,0 +1,7 @@
+---
+library: false
+warnOnImplicitThis: false
+name: getting-started/codeql-custom-python
+version: 1.0.0
+dependencies:
+  codeql/python-all: ^0.11.14
